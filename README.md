@@ -4,6 +4,8 @@ npm init
 
 and install the following modules:
 
+npm install express --save
+
 npm install ejs --save
 
 npm install mongoose --save
